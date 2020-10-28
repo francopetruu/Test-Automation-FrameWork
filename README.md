@@ -6,7 +6,7 @@ _This is an example of a maintainable test automation Framework using Selenium w
 This is a simple and maintainable test automation framework wich main purpose is to reduce maintenance costs and optimize the testing process. It has wrapper methods to perform
 user actions, an aplication layer in order to implement Page Object Model as a design pattern, a reports and screenshots generator using Extent Report and another libraries.
 
-##Getting Started
+## Getting Started
 In order to have a local copy of this project, simply copy the HTTPS URL available in the project main page ([CLONE](https://github.com/francopetruu/Test-Automation-FrameWork.git)), open the Git Bash into the directory that you want have the local version, and write:
 
 `git clone https://github.com/francopetruu/Test-Automation-FrameWork.git`
