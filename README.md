@@ -7,10 +7,9 @@ This is a simple and maintainable test automation framework wich main purpose is
 user actions, an aplication layer in order to implement Page Object Model as a design pattern, a reports and screenshots generator using Extent Report and another libraries.
 
 ##Getting Started
-In order to have a local copy of this project, simply copy the HTTPS URL available in the project main page ([CLONE](https://github.com/francopetruu/TestCafeChallenge.git)), 
-open the Git Bash into the directory that you want have the local version, and write:
+In order to have a local copy of this project, simply copy the HTTPS URL available in the project main page ([CLONE](https://github.com/francopetruu/Test-Automation-FrameWork.git)), open the Git Bash into the directory that you want have the local version, and write:
 
-`git clone https://github.com/francopetruu/TestCafeChallenge.git`
+`git clone https://github.com/francopetruu/Test-Automation-FrameWork.git`
 
 Press ENTER, and get started! 
 
